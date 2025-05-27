@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
       <img width="226" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/51c0517e-e5e6-4a65-a520-9e5a52095fb9">
 
 ## 🌟 MERN Marketplace 🌟
@@ -544,4 +544,4 @@ PORT = 4000
 <p align="center"><a href="https://github.com/pattjoshi/Multi_vondor_E_shop#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
 
 
-@copyright by Om Pattjoshi 2023
+@copyright by Om Pattjoshi 2023 -->
